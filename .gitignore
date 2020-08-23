@@ -69,3 +69,6 @@ hypotheses/*
 /.classpath
 /.project
 /.pydevproject
+
+# vscode
+/.vscode
